@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: gray;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+    min-width: 400px;
+}
+
+main img {
+    width: 100%;
+}
